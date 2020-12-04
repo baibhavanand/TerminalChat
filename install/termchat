@@ -34,7 +34,7 @@ read roomnumber
 echo -n "Enter length 6 (alpha-numberic) password (if doesn't exist, it will be created) : "
 read roomcode
 echo
-check=`curl -s -G "https://spongebhav.wtf/termchat/chat.php" --data-urlencode "roomnumber=$roomnumber" --data-urlencode "roomcode=$roomcode" --data-urlencode "name=$name"`
+check=`curl -s -G "https://baibhavjha.com/termchat/chat.php" --data-urlencode "roomnumber=$roomnumber" --data-urlencode "roomcode=$roomcode" --data-urlencode "name=$name"`
 
 if [ "$check" != "" ]; then 
 	echo "$check"
@@ -44,7 +44,7 @@ fi
 function send() {
 	echo -n "Enter your message: "
 	read message
-	curl -G "https://spongebhav.wtf/termchat/chat.php" --data-urlencode "roomnumber=$roomnumber" --data-urlencode "roomcode=$roomcode" --data-urlencode "name=$name"  --data-urlencode "message=$message" 
+	curl -G "https://baibhavjha.com/termchat/chat.php" --data-urlencode "roomnumber=$roomnumber" --data-urlencode "roomcode=$roomcode" --data-urlencode "name=$name"  --data-urlencode "message=$message" 
 }
 
 while :; do
