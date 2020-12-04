@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+#Coded by: Baibhav Anand Jha | Twitter: @spongebhav
+
+echo "
+                ///////////////////               
+             *.......................*            
+            *.........................            
+            *.....#####...............            
+            ,........#####............            
+            ,..........###............            
+            ,......####...............            
+            ..........................            
+            ..........................            
+      ####   .........................            
+  ##       #    ...................               
+  #         ###                                   
+   ##     ######   Terminal Chat        
+  #### ########                                   
+              ##      
+
+   -Chat anonymously in comfort of your Terminal-
+      
+---Made With Love By - Baibhav | Twitter : @spongebhav---	
+
+Like Terminal Chat?
+Help me to keep it up and running.
+BTC : 3KrxUGV6shDoqgyzrWF9h2EwBfaeamKVcD
+             "
+echo -n "Enter 6 digit roomnumber : "
+read roomnumber
+echo -n "Enter length 6 (alpha-numberic) password: "
+read roomcode
+echo
+
+function receive() {	
+	lastmessage=`curl -s https://spongebhav.wtf/termchat/getmessage.php?roomcode=$roomcode&roomnumber=$roomnumber`
+	}
+
+while :; do
+        receive
+        time=`date +"%T"`
+        message="$time : $lastmessage"
+        if [ "$lastmessage" != "$confirmlastmessage" ]; then
+        	echo "$message"
+        fi	
+        confirmlastmessage=$lastmessage
+        sleep 2
+    done

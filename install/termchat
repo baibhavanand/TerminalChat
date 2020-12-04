@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+#Coded by: Baibhav Anand Jha | Twitter: @spongebhav
+
+echo "
+                ///////////////////               
+             *.......................*            
+            *.........................            
+            *.....#####...............            
+            ,........#####............            
+            ,..........###............            
+            ,......####...............            
+            ..........................            
+            ..........................            
+      ####   .........................            
+  ##       #    ...................               
+  #         ###                                   
+   ##     ######   Terminal Chat        
+  #### ########                                   
+              ##      
+
+   -Chat anonymously in comfort of your Terminal-
+      
+---Made With Love By - Baibhav | Twitter : @spongebhav---
+
+Like Terminal Chat?
+Help me to keep it up and running.
+BTC : 3KrxUGV6shDoqgyzrWF9h2EwBfaeamKVcD	
+             "
+echo -n "Enter your name: "
+read name
+echo
+echo -n "Enter 6 digit roomnumber (if doesn't exist, it will be created): "
+read roomnumber
+echo -n "Enter length 6 (alpha-numberic) password (if doesn't exist, it will be created) : "
+read roomcode
+echo
+check=`curl -s -G "https://spongebhav.wtf/termchat/chat.php" --data-urlencode "roomnumber=$roomnumber" --data-urlencode "roomcode=$roomcode" --data-urlencode "name=$name"`
+
+if [ "$check" != "" ]; then 
+	echo "$check"
+	exit;
+fi
+
+function send() {
+	echo -n "Enter your message: "
+	read message
+	curl -G "https://spongebhav.wtf/termchat/chat.php" --data-urlencode "roomnumber=$roomnumber" --data-urlencode "roomcode=$roomcode" --data-urlencode "name=$name"  --data-urlencode "message=$message" 
+}
+
+while :; do
+	send
+    done
