@@ -33,7 +33,7 @@ read roomcode
 echo
 
 function receive() {	
-	lastmessage=`curl -s https://spongebhav.wtf/termchat/getmessage.php?roomcode=$roomcode&roomnumber=$roomnumber`
+	lastmessage=`curl -s https://baibhavjha.com/termchat/getmessage.php?roomcode=$roomcode&roomnumber=$roomnumber`
 	}
 
 while :; do
