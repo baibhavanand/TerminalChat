@@ -30,6 +30,9 @@
 * Switch to **terminalchat** directory:
 <pre>cd terminalchat</pre>
 
+* Switch to **install** directory:
+<pre>cd install</pre>
+
 * Give permissions to install.sh file:
 <pre>sudo chmod 555 install.sh</pre>
 
