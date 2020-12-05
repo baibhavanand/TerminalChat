@@ -53,9 +53,9 @@
  <img src="images/termchatwindow.png" height=300 width=500>
  </p>
  
- Enter your name: *Your Name here* .
- Enter 6 digit roomnumber (if doesn't exist, it will be created) : *Random 6 digit number* .
- Enter length 6 (alpha-numberic) password (if doesn't exist, it will be created) : *Length 6 alpha numberic ROOM password* .
+ * Enter your name: *Your Name here* .
+ * Enter 6 digit roomnumber (if doesn't exist, it will be created) : *Random 6 digit number* .
+ * Enter length 6 (alpha-numberic) password (if doesn't exist, it will be created) : *Length 6 alpha numberic ROOM password* .
  
  
  In the **getmessage** menu:
