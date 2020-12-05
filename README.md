@@ -81,7 +81,7 @@ Click on the image below to be redirected to the YouTube video. <br><br>
 
 
 <h2 align="center">
-  <strong>Contributors</strong>
+  <strong>Contribution</strong>
  </h2>
  
  <p align="center">      
