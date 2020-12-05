@@ -59,5 +59,18 @@
  
  
  In the **getmessage** menu:
+
+ <p align="left">
+ <img src="images/getmessage.png" height=300 width=500>
+ </p>
+ 
+ * Now use the same room number and password here <br>
+ 
+Now your partner to whom you want to chat with can use the same room number and password to join in the same room and you guys will be able to chat with each other without caring about about data being leaked or accessed and all this in comfort of your terminal.
+
+
+<h2 align="center">
+  <strong>Video demonstration of the chat</strong>
+ </h2>
  
  
