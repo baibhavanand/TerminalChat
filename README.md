@@ -72,5 +72,41 @@ Now your partner to whom you want to chat with can use the same room number and 
 <h2 align="center">
   <strong>Video demonstration of the chat</strong>
  </h2>
+
+
+Click on the image below to be redirected to the YouTube video. <br><br>
+[![](http://img.youtube.com/vi/Fp3dRpFOXvA/0.jpg)](http://www.youtube.com/watch?v=Fp3dRpFOXvA "Terminal Chat") 
+
+
+
+
+<h2 align="center">
+  <strong>Contributors</strong>
+ </h2>
+ 
+ <p align="center">      
+ If you wish to help me with the server cost to keep the project up and running here is how you can:
+        </p>
+ 
+ <img src="images/esewa.png" width=150 hight=50> | <img src="images/bitcoin.png" width=150 hight=50>
+------------- |-------------
+ Send to <strong>terminalchat@baibhavjha.com</strong>     | BitCoin address: <strong>3KrxUGV6shDoqgyzrWF9h2EwBfaeamKVcD </strong>
  
  
+ 
+ <p align="center">      
+ You can also contribute to this project by making this project better and sending in pull request or creating an issue.
+        </p>
+        
+<h2 align="center">
+  <strong>Thanks</strong>
+ </h2>
+<p align="center">
+<img src="images/thankyou.png" width="300" height="200"><br>
+I would like to thank <a href="https://github.com/baibhavanand/terminalchat/blob/main/thanks.md">the following people</a> for contributing to this project.</p>
+
+<br>
+<hr>
+<i>This project is maintained by <a href="https://github.com/baibhavanand">Baibhav Anand Jha</a> | Twitter: <a href="https://twitter.com/spongebhav">@spongebhav</a></i>
+
+<a href="https://twitter.com/spongebhav"><img src="images/signaturegreen.png" width="200" height="50"></a>
