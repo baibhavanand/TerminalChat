@@ -1,26 +1,25 @@
-<h1 align="center" style="font-size:36px;font-weight:bold;">
+<h1 align="left" style="font-size:36px;font-weight:bold;">
         Terminal Chat<br>
         -Chat anonymously in comfort of your terminal-
 </h1>
-<h4 align="center">
+<h4 align="left">
     <strong>Made with ❤️ by Baibhav Anand. (<a href='https://twitter.com/spongebhav' target="_blank">@spongebhav</a>)</strong>
 </h4>
 
-  <p align="center">
- <img src="images/terminalchat.png" width=250 height=250>
- </p>
 
-<h2 align="center">
+![](https://github.com/baibhavanand/TerminalChat/blob/main/images/Terminal%20Chat.gif)
+
+<h2 align="left">
   <strong>About Terminal Chat</strong>
  </h2>
  
-  <p align="center">
+  <p align="left">
  <img src="images/termchat.png" height=300 width=500>
  </p>
 
 **Terminal Chat** allows user to chat anonymously with one another without the need of creating an account and all of this in the comfort of your terminal.
 
-<h2 align="center">
+<h2 align="left">
   <strong>Installation</strong>
  </h2>
  
@@ -41,7 +40,7 @@
 
 
 
-<h2 align="center">
+<h2 align="left">
   <strong>Usage</strong>
  </h2>
  
@@ -72,7 +71,7 @@
 Now your partner to whom you want to chat with can use the same room number and password to join in the same room and you guys will be able to chat with each other without caring about about data being leaked or accessed and all this in comfort of your terminal.
 
 
-<h2 align="center">
+<h2 align="left">
   <strong>Video demonstration of the chat</strong>
  </h2>
 
@@ -83,11 +82,11 @@ Click on the image below to be redirected to the YouTube video. <br><br>
 
 
 
-<h2 align="center">
+<h2 align="left">
   <strong>Contribution</strong>
  </h2>
  
- <p align="center">      
+ <p align="left">      
  If you wish to help me with the server cost to keep the project up and running here is how you can:
         </p>
  
@@ -97,14 +96,14 @@ Click on the image below to be redirected to the YouTube video. <br><br>
  
  
  
- <p align="center">      
+ <p align="left">      
  You can also contribute to this project by making this project better and sending in pull request or creating an issue.
         </p>
         
-<h2 align="center">
+<h2 align="left">
   <strong>Thanks</strong>
  </h2>
-<p align="center">
+<p align="left">
 <img src="images/thankyou.png" width="300" height="200"><br>
 I would like to thank <a href="https://github.com/baibhavanand/terminalchat/blob/main/thanks.md">the following people</a> for contributing to this project.</p>
 
