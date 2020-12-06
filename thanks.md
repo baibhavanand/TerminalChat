@@ -5,6 +5,6 @@
 
 1.
 
-<h1 align="center"> I thank the following people for their contributions to this project via Pull Requests.</h1>
+<h1 align="center"> I thank the following people for their contributions to this project via Pull Requests and/or Bugs.</h1>
 
-1.
+1. [Gunaraj Khatri](https://github.com/GunarajKhatri)
