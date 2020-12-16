@@ -87,17 +87,7 @@ Click on the image below to be redirected to the YouTube video. <br><br>
  </h2>
  
  <p align="left">      
- If you wish to help me with the server cost to keep the project up and running here is how you can:
-        </p>
- 
- <img src="images/esewa.png" width=150 hight=50> | <img src="images/bitcoin.png" width=150 hight=50>
-------------- |-------------
- Send to <strong>terminalchat@baibhavjha.com</strong>     | BitCoin address: <strong>3KrxUGV6shDoqgyzrWF9h2EwBfaeamKVcD </strong>
- 
- 
- 
- <p align="left">      
- You can also contribute to this project by making this project better and sending in pull request or creating an issue.
+ You can contribute to this project by making this project better and sending in pull request or creating an issue.
         </p>
         
 <h2 align="left">
