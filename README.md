@@ -7,6 +7,8 @@
 </h4>
 
 
+**TERMINAL CHAT IS CURRENTLY OUT OF SERVICE**
+
 ![](https://github.com/baibhavanand/TerminalChat/blob/main/images/Terminal%20Chat.gif)
 
 <h2 align="left">
